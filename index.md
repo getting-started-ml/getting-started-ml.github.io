@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Getting Started with Machine Learning
 
 [![GitHub stars](https://img.shields.io/github/stars/getting-started-ml/getting-started-ml.github.io?style=social)](https://github.com/getting-started-ml/getting-started-ml.github.io)
