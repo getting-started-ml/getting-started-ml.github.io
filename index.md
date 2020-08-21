@@ -5,7 +5,7 @@
 
 A [community-driven](https://github.com/getting-started-ml/getting-started-ml.github.io) place to get started with machine learning and AI. This list is not definite, nor sequential, but we hope it's a good starting place for anyone looking to get into the field. All resources mentioned in this guide are _free_, and include a little description of why they are useful. Each section has a set of starting points (usually courses, books, blog posts, etc.), relevant papers and project ideas. The most helpful starting points in each section are marked with a ⭐️.
 
-_Remember: The two best things you can do is **building stuff** and **running your own experiments**._
+_Remember: The two best things you can do are **building stuff** and **running your own experiments**._
 
 ## Contents
 
