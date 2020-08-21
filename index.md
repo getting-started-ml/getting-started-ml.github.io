@@ -18,12 +18,13 @@ _Remember: The two best things you can do are **building stuff** and **running y
    - [Calculus](#calculus)
    - [Linear Algebra](#linear-algebra)
    - [Statistics](#statistics)
-3. [Computer Vision](#computer-vision)
-4. [Natural Language Processing](#natural-language-processing)
-5. [Reinforcement Learning](#reinforcement-learning)
-6. [Ethics](#ethics)
-7. [Community](#community)
-8. [Contributing](#contributing-to-gettingstartedml)
+3. [Neural Networks](#neural-networks)
+4. [Computer Vision](#computer-vision)
+5. [Natural Language Processing](#natural-language-processing)
+6. [Reinforcement Learning](#reinforcement-learning)
+7. [Ethics](#ethics)
+8. [Community](#community)
+9. [Contributing](#contributing-to-gettingstartedml)
 
 ## Basics
 
