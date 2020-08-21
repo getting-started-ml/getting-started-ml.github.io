@@ -58,6 +58,7 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 ## Neural Networks
 
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com): Nice overview of what neural networks can do. Includes Python demos.
+- [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF): covers many aspects of deep learning.
 
 ###### Papers
 
@@ -99,6 +100,7 @@ _Coming soon_
 
 - [⭐️ Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/user/introduction.html): A large collection of RL tutorials by OpenAI, one of the leading AI research institutes.
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/first/ebook/the-book.html): Very nice overview of many intuitions, mathematical foundations and algorithms you will encounter in reinforcement learning.
+- [RL Course by David Silver (Google DeepMind)](https://www.davidsilver.uk/teaching/): very well organized RL course by one of the creators of AlphaZero.
 
 ###### Papers
 
