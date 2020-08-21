@@ -42,12 +42,12 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 
 ### Linear Algebra
 
-- [⭐ MIT OCW on Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): An in-depth course on everything you need to know about linear algebra and more. It includes exams with solutions.
+- [⭐️ MIT OCW on Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): An in-depth course on everything you need to know about linear algebra and more. It includes exams with solutions.
 - [Essence of linear algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): Build a visual intuition for linear algebra. You probably won't need to know linear transformations, but this course presents some key insights in how everything fits together.
 
 ### Statistics
 
-- [⭐ MIT OCW on Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm): Interactive, very comprehensive course on statistics. While the video lectures are not available, you can find all readings [here](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/). Each reading has corresponding questions. The exams with solutions are available. This course ends with linear regression: the approximate start of machine learning.
+- [⭐️ MIT OCW on Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm): Interactive, very comprehensive course on statistics. While the video lectures are not available, you can find all readings [here](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/). Each reading has corresponding questions. The exams with solutions are available. This course ends with linear regression: the approximate start of machine learning.
 
 ## Neural Networks
 
