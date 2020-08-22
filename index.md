@@ -60,7 +60,7 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 ## Neural Networks
 
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com): Nice overview of what neural networks can do. Includes Python demos.
-- [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF): covers many aspects of deep learning.
+- [DeepMind x UCL \| Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF): covers many aspects of deep learning.
 
 ###### Papers
 
