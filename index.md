@@ -90,7 +90,7 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 
 ## Natural Language Processing
 
-_Coming soon_
+- [⭐️ Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html): Stanford's undergrad course on NLP. Includes a lot of additional materials.
 
 ###### Papers
 
