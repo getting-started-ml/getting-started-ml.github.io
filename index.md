@@ -31,6 +31,7 @@ _Remember: The two best things you can do are **building stuff** and **running y
 - [⭐️ Stanford CS229](http://cs229.stanford.edu): Stanford's introductory machine learning course. Even though the code is quite outdated, this course explains many fundamental ML algorithms. It also has a section on the mathematical foundation required. Additional links: [Python exercises/solutions](https://github.com/rickwierenga/cs229-python) - [Notes](https://stanford.edu/~shervine/teaching/cs-229/) - [Coursera](https://www.coursera.org/learn/machine-learning).
 - [Practical Deep Learning for Coders (fast.ai)](https://course.fast.ai): The best course to start with if you are looking to quickly train your own models. This course teaches many clever tricks to improve accuracy and overall performance.
 - [Deep Learning Book](http://www.deeplearningbook.org): This book covers everything you need to know to start reading papers. Be sure to write your own code while reading.
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course): Google's fast-paced, practical introduction to machine learning (TensorFlow).
 
 ###### Resources
 
@@ -42,6 +43,7 @@ _Remember: The two best things you can do are **building stuff** and **running y
 Some beginners are put off by the math. However, machine learning remains a field build upon mathematical principles. While you don't need to know any math to train a neural network, it's quite useful when debugging your architecture, and analyzing model performance. Luckily, the most basic understanding of matrices, derivatives and statistical properties can already help a lot.
 
 - [⭐️ The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html): Digging deeper into the math behind neural networks. Understanding this text will be of tremendous help.
+- [Learning Math for Machine Learning](https://www.ycombinator.com/library/51-learning-math-for-machine-learning): Essay on why math is/isn't important in engineering, ML.
 
 ### Calculus
 
@@ -52,6 +54,7 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 - [⭐️ MIT OCW on Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): An in-depth course on everything you need to know about linear algebra and more. It includes exams with solutions.
 - [Essence of linear algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): Build a visual intuition for linear algebra. You probably won't need to know linear transformations, but this course presents some key insights in how everything fits together.
 - [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf): Reference sheet with many key formulas.
+- [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra): Linear Algebra taught with a focus on computing.
 
 ### Statistics
 
