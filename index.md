@@ -47,6 +47,7 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 
 ### Calculus
 
+- [Calculus Learning Guide](https://betterexplained.com/guides/calculus/): realistic learning plan for Calculus.
 - [Essence of calculus by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr): Explore Calculus, the study of change, in an intuitive manner.
 
 ### Linear Algebra
