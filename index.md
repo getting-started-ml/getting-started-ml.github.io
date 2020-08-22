@@ -22,9 +22,10 @@ _Remember: The two best things you can do are **building stuff** and **running y
 4. [Computer Vision](#computer-vision)
 5. [Natural Language Processing](#natural-language-processing)
 6. [Reinforcement Learning](#reinforcement-learning)
-7. [Ethics](#ethics)
-8. [Community](#community)
-9. [Contributing](#contributing-to-gettingstartedml)
+7. [Generative Adversarial Networks (GANs)](#generative-adversarial-networks)
+8. [Ethics](#ethics)
+9. [Community](#community)
+10. [Contributing](#contributing-to-gettingstartedml)
 
 ## Basics
 
@@ -122,6 +123,25 @@ _Coming soon_
 - Write a TicTacToe bot.
 - Write a chess bot.
 - Build a stock trading bot.
+
+## Generative adversarial networks
+
+* [DeepMind: Generative Adversarial Networks](https://www.youtube.com/watch?v=wFsI2WqUfdA&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF&index=10)
+* Lectures [5](https://www.youtube.com/watch?v=1CT-kxjYbFU&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP&index=5) and [6](https://www.youtube.com/watch?v=0W1dixJfKL4&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP&index=6) of Berkeley's Deep Unsupervised Learning.
+
+###### Papers
+
+* [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
+* [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
+* [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
+* [Improved Techniques for Training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)
+* [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](https://arxiv.org/abs/1506.05751)
+* [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
+* [cGANs with Projection Discriminator](https://arxiv.org/abs/1802.05637)
+* [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957)
+* [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)
+* [BigGAN](https://arxiv.org/abs/1809.11096)
+* [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196), [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) and [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)
 
 ## Ethics
 
