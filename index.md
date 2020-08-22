@@ -131,6 +131,7 @@ _Coming soon_
 
 ###### Papers
 
+* [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 * [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
 * [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 * [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
