@@ -55,6 +55,7 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 ### Statistics
 
 - [⭐️ MIT OCW on Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm): Interactive, very comprehensive course on statistics. While the video lectures are not available, you can find all readings [here](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/). Each reading has corresponding questions. The exams with solutions are available. This course ends with linear regression: the approximate start of machine learning.
+- [probabilitycourse.com](https://www.probabilitycourse.com): Free, online verion of 'Introduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik'.
 
 ## Neural Networks
 
