@@ -37,6 +37,7 @@ _Remember: The two best things you can do are **building stuff** and **running y
 
 - [Google Colab](https://colab.research.google.com): Free GPUs, shareable notebooks.
 - [r/datasets](https://www.reddit.com/r/datasets/): Feed of datasets to fuel your own projects.
+- [Dataset Search](https://datasetsearch.research.google.com): A Google for datasets.
 
 ## Mathematics
 
