@@ -152,7 +152,7 @@ Any new field needs to explore its ethical side. Especially AI, because it const
 
 ###### Papers
 
-_Coming soon_
+- [Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/)
 
 ###### Project ideas
 
