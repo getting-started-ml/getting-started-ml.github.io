@@ -5,7 +5,7 @@ layout: default
 # Getting Started with Machine Learning
 
 [![GitHub stars](https://img.shields.io/github/stars/getting-started-ml/getting-started-ml.github.io?style=social)](https://github.com/getting-started-ml/getting-started-ml.github.io)
-[![Support on Patreon](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/rickwierenga)
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rickwierenga)
 
 A [community-driven](https://github.com/getting-started-ml/getting-started-ml.github.io) place to get started with machine learning and AI. This list is not definite, nor sequential, but we hope it's a good starting place for anyone looking to get into the field. All resources mentioned in this guide are _free_, and include a little description of why they are useful. Each section has a set of starting points (usually courses, books, blog posts, etc.), relevant papers and project ideas. The most helpful starting points in each section are marked with a ⭐️.
 
@@ -50,15 +50,17 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 
 - [⭐️ MIT OCW on Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): An in-depth course on everything you need to know about linear algebra and more. It includes exams with solutions.
 - [Essence of linear algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): Build a visual intuition for linear algebra. You probably won't need to know linear transformations, but this course presents some key insights in how everything fits together.
+- [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf): Reference sheet with many key formulas.
 
 ### Statistics
 
 - [⭐️ MIT OCW on Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm): Interactive, very comprehensive course on statistics. While the video lectures are not available, you can find all readings [here](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/). Each reading has corresponding questions. The exams with solutions are available. This course ends with linear regression: the approximate start of machine learning.
+- [probabilitycourse.com](https://www.probabilitycourse.com): Free, online verion of 'Introduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik'.
 
 ## Neural Networks
 
 - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com): Nice overview of what neural networks can do. Includes Python demos.
-- [DeepMind x UCL | Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF): covers many aspects of deep learning.
+- [DeepMind x UCL \| Deep Learning Lecture Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF): covers many aspects of deep learning.
 
 ###### Papers
 
@@ -72,11 +74,14 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 
 ## Computer Vision
 
-- [⭐️ Stanford CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu):
+- [⭐️ Stanford CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu): Industry standard course on computer vision and CNNs.
+- [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285.pdf): Nice guide on the mathematical principles behind convolutions. Covers padding, stride, pooling, transposition, etc.
 
 ###### Papers
 
 - [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf): One of the first papers on large convolutional networks. Even though it's already outdated at this point, it remains a must-read for anyone looking to understand ConvNets.
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+- [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 
 ###### Project ideas
 
@@ -86,7 +91,7 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 
 ## Natural Language Processing
 
-_Coming soon_
+- [⭐️ Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html): Stanford's undergrad course on NLP. Includes a lot of additional materials.
 
 ###### Papers
 
