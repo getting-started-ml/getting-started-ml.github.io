@@ -72,7 +72,8 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 
 ## Computer Vision
 
-- [⭐️ Stanford CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu):
+- [⭐️ Stanford CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu): Industry standard course on computer vision and CNNs.
+- [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285.pdf): Nice guide on the mathematical principles behind convolutions. Covers padding, stride, pooling, transposition, etc.
 
 ###### Papers
 
