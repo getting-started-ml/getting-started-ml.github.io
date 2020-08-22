@@ -79,6 +79,8 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 ###### Papers
 
 - [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf): One of the first papers on large convolutional networks. Even though it's already outdated at this point, it remains a must-read for anyone looking to understand ConvNets.
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+- [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 
 ###### Project ideas
 
