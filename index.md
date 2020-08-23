@@ -177,6 +177,10 @@ You can't learn hard things alone. Fortunately, there's a great community ready 
 - [arxiv-sanity.com](http://www.arxiv-sanity.com): An organized directory of the latest ML and stats research papers.
 - [Official r/LearnMachineLearning Discord server](https://discord.gg/duHMAGp): Probably the best place to get your short questions answered quickly.
 
+###### Papers
+
+- [Ten simple rules for getting started on Twitter as a scientist](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007513&type=printable)
+
 ## Contributing to gettingstarted.ml
 
 Thanks for even considering contributing! This guide is community driven, and every [pull request](https://github.com/getting-started-ml/getting-started-ml.github.io/pulls) is appreciated. Whether you are fixing a typo, adding or updating resources - everything will help make this guide better for everyone. Please be careful when submitting your own content, this is not a place for self promotion but we do value good learning materials. On behalf of every beginner, thank you!
