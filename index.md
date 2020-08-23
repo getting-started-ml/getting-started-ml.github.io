@@ -5,7 +5,8 @@ layout: default
 # Getting Started with Machine Learning
 
 [![GitHub stars](https://img.shields.io/github/stars/getting-started-ml/getting-started-ml.github.io?style=social)](https://github.com/getting-started-ml/getting-started-ml.github.io)
-[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rickwierenga)
+[![Share on Twitter](https://img.shields.io/twitter/url?url=http://gettingstarted.ml)](https://twitter.com/intent/tweet?text=Looking%20to%20get%20started%20with%20machine%20learning?%20Check%20out%20http://gettingstarted.ml)
+[![Buy me a coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-%23EF884F)](https://www.buymeacoffee.com/rickwierenga)
 
 A [community-driven](https://github.com/getting-started-ml/getting-started-ml.github.io) place to get started with machine learning and AI. This list is not definite, nor sequential, but we hope it's a good starting place for anyone looking to get into the field. All resources mentioned in this guide are _free_, and include a little description of why they are useful. Each section has a set of starting points (usually courses, books, blog posts, etc.), relevant papers and project ideas. The most helpful starting points in each section are marked with a ⭐️.
 
@@ -20,30 +21,37 @@ _Remember: The two best things you can do are **building stuff** and **running y
    - [Statistics](#statistics)
 3. [Neural Networks](#neural-networks)
 4. [Computer Vision](#computer-vision)
-5. [Natural Language Processing](#natural-language-processing)
-6. [Reinforcement Learning](#reinforcement-learning)
-7. [Ethics](#ethics)
-8. [Community](#community)
-9. [Contributing](#contributing-to-gettingstartedml)
+5. [Natural Language Processing (NLP)](#natural-language-processing)
+6. [Reinforcement Learning (RL)](#reinforcement-learning)
+7. [Generative Adversarial Networks (GANs)](#generative-adversarial-networks)
+8. [Ethics](#ethics)
+9. [Community](#community)
+10. [Contributing](#contributing-to-gettingstartedml)
 
 ## Basics
 
 - [⭐️ Stanford CS229](http://cs229.stanford.edu): Stanford's introductory machine learning course. Even though the code is quite outdated, this course explains many fundamental ML algorithms. It also has a section on the mathematical foundation required. Additional links: [Python exercises/solutions](https://github.com/rickwierenga/cs229-python) - [Notes](https://stanford.edu/~shervine/teaching/cs-229/) - [Coursera](https://www.coursera.org/learn/machine-learning).
 - [Practical Deep Learning for Coders (fast.ai)](https://course.fast.ai): The best course to start with if you are looking to quickly train your own models. This course teaches many clever tricks to improve accuracy and overall performance.
 - [Deep Learning Book](http://www.deeplearningbook.org): This book covers everything you need to know to start reading papers. Be sure to write your own code while reading.
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course): Google's fast-paced, practical introduction to machine learning (TensorFlow).
 
 ###### Resources
 
 - [Google Colab](https://colab.research.google.com): Free GPUs, shareable notebooks.
+- [r/datasets](https://www.reddit.com/r/datasets/): Feed of datasets to fuel your own projects.
+- [Dataset Search](https://datasetsearch.research.google.com): A Google for datasets.
 
 ## Mathematics
 
 Some beginners are put off by the math. However, machine learning remains a field build upon mathematical principles. While you don't need to know any math to train a neural network, it's quite useful when debugging your architecture, and analyzing model performance. Luckily, the most basic understanding of matrices, derivatives and statistical properties can already help a lot.
 
 - [⭐️ The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html): Digging deeper into the math behind neural networks. Understanding this text will be of tremendous help.
+- [Learning Math for Machine Learning](https://www.ycombinator.com/library/51-learning-math-for-machine-learning): Essay on why math is/isn't important in engineering, ML.
+- [A Programmer's Introduction to Mathematics](https://pimbook.org): Be sure to read this if you have never read a college level math book before. It not only teaches fundamental math, but also introduces the reader to succesfully reading mathematical literature.
 
 ### Calculus
 
+- [Calculus Learning Guide](https://betterexplained.com/guides/calculus/): realistic learning plan for Calculus.
 - [Essence of calculus by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr): Explore Calculus, the study of change, in an intuitive manner.
 
 ### Linear Algebra
@@ -51,11 +59,12 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 - [⭐️ MIT OCW on Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): An in-depth course on everything you need to know about linear algebra and more. It includes exams with solutions.
 - [Essence of linear algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): Build a visual intuition for linear algebra. You probably won't need to know linear transformations, but this course presents some key insights in how everything fits together.
 - [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf): Reference sheet with many key formulas.
+- [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra): Linear Algebra taught with a focus on computing.
 
 ### Statistics
 
 - [⭐️ MIT OCW on Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm): Interactive, very comprehensive course on statistics. While the video lectures are not available, you can find all readings [here](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/). Each reading has corresponding questions. The exams with solutions are available. This course ends with linear regression: the approximate start of machine learning.
-- [probabilitycourse.com](https://www.probabilitycourse.com): Free, online verion of 'Introduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik'.
+- [probabilitycourse.com](https://www.probabilitycourse.com): Free, online verion of 'Introduction to Probability, Statistics, and Random Processes' by Hossein Pishro-Nik.
 
 ## Neural Networks
 
@@ -117,6 +126,26 @@ _Coming soon_
 - Write a chess bot.
 - Build a stock trading bot.
 
+## Generative adversarial networks
+
+* [DeepMind: Generative Adversarial Networks](https://www.youtube.com/watch?v=wFsI2WqUfdA&list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF&index=10)
+* Lectures [5](https://www.youtube.com/watch?v=1CT-kxjYbFU&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP&index=5) and [6](https://www.youtube.com/watch?v=0W1dixJfKL4&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP&index=6) of Berkeley's Deep Unsupervised Learning.
+
+###### Papers
+
+* [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+* [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
+* [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
+* [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
+* [Improved Techniques for Training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf)
+* [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](https://arxiv.org/abs/1506.05751)
+* [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
+* [cGANs with Projection Discriminator](https://arxiv.org/abs/1802.05637)
+* [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957)
+* [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)
+* [BigGAN](https://arxiv.org/abs/1809.11096)
+* [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196), [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) and [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)
+
 ## Ethics
 
 Any new field needs to explore its ethical side. Especially AI, because it constantly presents new issues we have never encountered before at an incredible pace. While it may not seem technical, this section is one of the most important if you hope to make an impact with your work.
@@ -125,7 +154,7 @@ Any new field needs to explore its ethical side. Especially AI, because it const
 
 ###### Papers
 
-_Coming soon_
+- [Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/)
 
 ###### Project ideas
 
@@ -154,4 +183,4 @@ Thanks for even considering contributing! This guide is community driven, and ev
 
 ---
 
-[Edit on GitHub](https://github.com/getting-started-ml/getting-started-ml.github.io/) &middot; Created by [Rick Wierenga](https://twitter.com/intent/follow?screen_name=rickwierenga)
+[Edit on GitHub](https://github.com/getting-started-ml/getting-started-ml.github.io/) &middot; Created by [Rick Wierenga](https://twitter.com/rickwierenga)
