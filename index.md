@@ -47,6 +47,7 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 
 - [⭐️ The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html): Digging deeper into the math behind neural networks. Understanding this text will be of tremendous help.
 - [Learning Math for Machine Learning](https://www.ycombinator.com/library/51-learning-math-for-machine-learning): Essay on why math is/isn't important in engineering, ML.
+- [A Programmer's Introduction to Mathematics](https://pimbook.org): Be sure to read this if you have never read a college level math book before. It not only teaches fundamental math, but also introduces the reader to succesfully reading mathematical literature.
 
 ### Calculus
 
