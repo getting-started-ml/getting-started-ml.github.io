@@ -75,6 +75,7 @@ Some beginners are put off by the math. However, machine learning remains a fiel
 ###### Papers
 
 - [Gradient-based learning applied to document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf): one of the classic ML papers.
+- [Theoretical issues in deep networks](https://www.pnas.org/content/early/2020/06/08/1907369117)
 
 ###### Project ideas
 
