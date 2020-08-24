@@ -34,6 +34,7 @@ _Remember: The two best things you can do are **building stuff** and **running y
 - [Practical Deep Learning for Coders (fast.ai)](https://course.fast.ai): The best course to start with if you are looking to quickly train your own models. This course teaches many clever tricks to improve accuracy and overall performance.
 - [Deep Learning Book](http://www.deeplearningbook.org): This book covers everything you need to know to start reading papers. Be sure to write your own code while reading.
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course): Google's fast-paced, practical introduction to machine learning (TensorFlow).
+- [Dive into Deep Learning](http://d2l.ai/index.html): An interactive deep learning book with code, math, and discussions. Provides NumPy/MXNet, PyTorch, and TensorFlow implementations.
 
 ###### Resources
 
