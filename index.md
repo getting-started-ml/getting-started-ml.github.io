@@ -160,6 +160,8 @@ Any new field needs to explore its ethical side. Especially AI, because it const
 ###### Papers
 
 - [Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/)
+- [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
+- [A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/abs/1908.09635)
 
 ###### Project ideas
 
