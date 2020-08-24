@@ -151,6 +151,9 @@ _Coming soon_
 Any new field needs to explore its ethical side. Especially AI, because it constantly presents new issues we have never encountered before at an incredible pace. While it may not seem technical, this section is one of the most important if you hope to make an impact with your work.
 
 - [⭐️ Practical Data Ethics](https://ethics.fast.ai): A practical course of fairness, biases, and more.
+- [CS 294: Fairness in Machine Learning](https://fairmlclass.github.io): List of good readings on fairness.
+- [21 fairness definitions and their politics](https://fairmlbook.org/tutorial2.html): Talk from the [FAT](https://facctconference.org) conference.
+- [NIPS 2017 Tutorial on Fairness in Machine Learning](https://fairmlbook.org/tutorial1.html): Presents a 'toolkit' researchers and engineers can use to improve fairness.
 
 ###### Papers
 
