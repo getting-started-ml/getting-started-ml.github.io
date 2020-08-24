@@ -104,11 +104,11 @@ _Remember: The two best things you can do are **building stuff** and **running y
 
 ###### Papers
 
-_Coming soon_
+_Coming soon_ - [Open a PR!](https://github.com/getting-started-ml/getting-started-ml.github.io)
 
 ###### Project ideas
 
-_Coming soon_
+_Coming soon_ - [Open a PR!](https://github.com/getting-started-ml/getting-started-ml.github.io)
 
 ## Reinforcement Learning
 
@@ -118,7 +118,7 @@ _Coming soon_
 
 ###### Papers
 
-_Coming soon_
+_Coming soon_ - [Open a PR!](https://github.com/getting-started-ml/getting-started-ml.github.io)
 
 ###### Project ideas
 
