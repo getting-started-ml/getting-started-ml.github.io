@@ -44,8 +44,6 @@ _Remember: The two best things you can do are **building stuff** and **running y
 
 ## Mathematics
 
-Some beginners are put off by the math. However, machine learning remains a field build upon mathematical principles. While you don't need to know any math to train a neural network, it's quite useful when debugging your architecture, and analyzing model performance. Luckily, the most basic understanding of matrices, derivatives and statistical properties can already help a lot.
-
 - [⭐️ The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html): Digging deeper into the math behind neural networks. Understanding this text will be of tremendous help.
 - [Learning Math for Machine Learning](https://www.ycombinator.com/library/51-learning-math-for-machine-learning): Essay on why math is/isn't important in engineering, ML.
 - [A Programmer's Introduction to Mathematics](https://pimbook.org): Be sure to read this if you have never read a college level math book before. It not only teaches fundamental math, but also introduces the reader to succesfully reading mathematical literature.
@@ -149,8 +147,6 @@ _Coming soon_
 * [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196), [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) and [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)
 
 ## Ethics
-
-Any new field needs to explore its ethical side. Especially AI, because it constantly presents new issues we have never encountered before at an incredible pace. While it may not seem technical, this section is one of the most important if you hope to make an impact with your work.
 
 - [⭐️ Practical Data Ethics](https://ethics.fast.ai): A practical course of fairness, biases, and more.
 - [CS 294: Fairness in Machine Learning](https://fairmlclass.github.io): List of good readings on fairness.
