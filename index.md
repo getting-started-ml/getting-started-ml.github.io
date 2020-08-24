@@ -170,6 +170,14 @@ You can't learn hard things alone. Fortunately, there's a great community ready 
 - [gettingstarted.ml](http://gettingstarted.ml) ;)
 - [paperswithcode.com](https://paperswithcode.com): Machine learning research with corresponding code. A great place to learn to implement literature.
 
+### Blogs / publications
+
+- [distill.pub](https://distill.pub): interactive articles about new machine learning research, or new viewpoints on existing work.
+- [OpenAI Blog](https://openai.com/blog/)
+- [DeepMind Blog](https://deepmind.com/blog)
+- [Google AI Blog](https://blog.google/technology/ai/)
+- [Colah's Blog](https://colah.github.io): Very good explanations of intermediate ML topics.
+
 ### Discussion
 
 - [r/MachineLearning](https://www.reddit.com/r/machinelearning/): The latest in ML research (advanced).
