@@ -188,6 +188,7 @@ You can't learn hard things alone. Fortunately, there's a great community ready 
 - [r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning/): A subreddit dedicated to learning machine learning.
 - [arxiv-sanity.com](http://www.arxiv-sanity.com): An organized directory of the latest ML and stats research papers.
 - [Official r/LearnMachineLearning Discord server](https://discord.gg/duHMAGp): Probably the best place to get your short questions answered quickly.
+- [Deep Learning Course Forums](https://forums.fast.ai): For questions related to any of fastai's courses.
 
 ###### Papers
 
