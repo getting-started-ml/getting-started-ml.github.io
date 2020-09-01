@@ -6,7 +6,7 @@ layout: default
 
 [![GitHub stars](https://img.shields.io/github/stars/getting-started-ml/getting-started-ml.github.io?style=social)](https://github.com/getting-started-ml/getting-started-ml.github.io)
 [![Share on Twitter](https://img.shields.io/twitter/url?url=http://gettingstarted.ml)](https://twitter.com/intent/tweet?text=Looking%20to%20get%20started%20with%20machine%20learning?%20Check%20out%20http://gettingstarted.ml)
-![cc-by-sa-shield](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
+[![cc-by-sa-shield](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://github.com/getting-started-ml/getting-started-ml.github.io/blob/master/LICENSE)
 
 A [community-driven](https://github.com/getting-started-ml/getting-started-ml.github.io) place to get started with machine learning and AI. This list is not definite, nor sequential, but we hope it's a good starting place for anyone looking to get into the field. All resources mentioned in this guide are _free_, and include a little description of why they are useful. Each section has a set of starting points (usually courses, books, blog posts, etc.), relevant papers and project ideas. The most helpful starting points in each section are marked with a ⭐️.
 
