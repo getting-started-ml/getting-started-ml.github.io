@@ -182,6 +182,15 @@ You can't learn hard things alone. Fortunately, there's a great community ready 
 - [Google AI Blog](https://blog.google/technology/ai/)
 - [Colah's Blog](https://colah.github.io): Very good explanations of intermediate ML topics.
 
+### Newsletters
+
+- [ImportAI](https://jack-clark.net): Weekly newsletter by an OpenAI director.
+- [DataScienceWeekly](https://www.datascienceweekly.org): News, articles and jobs related to Data Science.
+- [Data Elixir](https://dataelixir.com): Machine learning, Data visualization, analytics, and strategy.
+- [Deep Learning Weekly](https://www.deeplearningweekly.com/): Features the latest in industry, mobile ML, academia and more.
+- [The Algorithm](https://forms.technologyreview.com/the-algorithm/): Weekly AI newsletter by MIT Technology Review.
+- [Open Data Science](https://opendatascience.com/newsletter/): Open Data Science's weekly newsletter.
+
 ### Discussion
 
 - [r/MachineLearning](https://www.reddit.com/r/machinelearning/): The latest in ML research (advanced).
