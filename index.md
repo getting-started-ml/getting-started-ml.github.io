@@ -101,6 +101,7 @@ _Remember: The two best things you can do are **building stuff** and **running y
 ## Natural Language Processing
 
 - [⭐️ Stanford CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html): Stanford's undergrad course on NLP. Includes a lot of additional materials.
+- [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/): fastai's course on NLP.
 
 ###### Papers
 
