@@ -31,7 +31,7 @@ _Remember: The two best things you can do are **building stuff** and **running y
 ## Basics
 
 - [⭐️ Stanford CS229](http://cs229.stanford.edu): Stanford's introductory machine learning course. Even though the code is quite outdated, this course explains many fundamental ML algorithms. It also has a section on the mathematical foundation required. Additional links: [Python exercises/solutions](https://github.com/rickwierenga/cs229-python) - [Notes](https://stanford.edu/~shervine/teaching/cs-229/) - [Coursera](https://www.coursera.org/learn/machine-learning).
-- [Practical Deep Learning for Coders (fast.ai)](https://course.fast.ai): The best course to start with if you are looking to quickly train your own models. This course teaches many clever tricks to improve accuracy and overall performance.
+- [Practical Deep Learning for Coders (fast.ai) (part 1 & 2)](https://course.fast.ai): The best course to start with if you are looking to quickly train your own models. This course teaches many clever tricks to improve accuracy and overall performance.
 - [Deep Learning Book](http://www.deeplearningbook.org): This book covers everything you need to know to start reading papers. Be sure to write your own code while reading.
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course): Google's fast-paced, practical introduction to machine learning (TensorFlow).
 - [Dive into Deep Learning](http://d2l.ai/index.html): An interactive deep learning book with code, math, and discussions. Provides NumPy/MXNet, PyTorch, and TensorFlow implementations.
