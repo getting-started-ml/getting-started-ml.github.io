@@ -153,6 +153,9 @@ _Coming soon_ - [Open a PR!](https://github.com/getting-started-ml/getting-start
 - [CS 294: Fairness in Machine Learning](https://fairmlclass.github.io): List of good readings on fairness.
 - [21 fairness definitions and their politics](https://fairmlbook.org/tutorial2.html): Talk from the [FAT](https://facctconference.org) conference.
 - [NIPS 2017 Tutorial on Fairness in Machine Learning](https://fairmlbook.org/tutorial1.html): Presents a 'toolkit' researchers and engineers can use to improve fairness.
+- [Montreal AI Ethics Institute Publications](https://montrealethics.ai/publications/)
+- [Montreal AI Ethics Institute Living Dictionary](https://montrealethics.ai/dictionary/)
+- [Montreal AI Ethics Institute State of AI Ethics June 2020 Report](https://montrealethics.ai/the-state-of-ai-ethics-report-june-2020/)
 
 ###### Papers
 
@@ -181,6 +184,7 @@ You can't learn hard things alone. Fortunately, there's a great community ready 
 - [DeepMind Blog](https://deepmind.com/blog)
 - [Google AI Blog](https://blog.google/technology/ai/)
 - [Colah's Blog](https://colah.github.io): Very good explanations of intermediate ML topics.
+- [Montreal AI Ethics Institute Blog](https://montrealethics.ai/blog)
 
 ### Newsletters
 
@@ -190,6 +194,7 @@ You can't learn hard things alone. Fortunately, there's a great community ready 
 - [Deep Learning Weekly](https://www.deeplearningweekly.com/): Features the latest in industry, mobile ML, academia and more.
 - [The Algorithm](https://forms.technologyreview.com/the-algorithm/): Weekly AI newsletter by MIT Technology Review.
 - [Open Data Science](https://opendatascience.com/newsletter/): Open Data Science's weekly newsletter.
+- [Montreal AI Ethics Institute AI Ethics newsletter](https://aiethics.substack.com)
 
 ### Discussion
 
@@ -201,6 +206,8 @@ You can't learn hard things alone. Fortunately, there's a great community ready 
 - [stats.stackexchange.com](https://stats.stackexchange.com): Statistics Stack Exchange
 - [math.stackexchange.com](https://math.stackexchange.com): Mathematics Stack Exchange
 - [Stack Overflow](https://stackoverflow.com): questions related to programming / software engineering.
+- [Montreal AI Ethics Institute Learning Community](https://montrealethics.ai/learning-community)
+- [Montreal AI Ethics Institute AI Ethics workshops](https://montrealethics.ai/meetup)
 
 ###### Papers
 
